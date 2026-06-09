@@ -1,0 +1,2443 @@
+{
+  "ABANCAY": {
+    "lat": -13.732165,
+    "lon": -72.832086,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "GRAU": 43.2148,
+      "ANTA": 56.9395,
+      "ANDAHUAYLAS": 61.4444,
+      "COTABAMBAS": 68.6987,
+      "ANTABAMBA": 79.1686,
+      "AYMARAES": 81.1954,
+      "LA CONVENCION": 154.0206
+    }
+  },
+  "ACOBAMBA": {
+    "lat": -12.795607,
+    "lon": -74.578687,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "CHURCAMPA": 22.2219,
+      "ANGARAES": 28.4517,
+      "HUANTA": 51.1201,
+      "HUANCAVELICA": 55.7449
+    }
+  },
+  "ACOMAYO": {
+    "lat": -13.952593,
+    "lon": -71.655929,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "PARURO": 28.9459,
+      "CANCHIS": 58.9292,
+      "CANAS": 63.5564,
+      "CHUMBIVILCAS": 68.6004,
+      "QUISPICANCHI": 82.5009
+    }
+  },
+  "AIJA": {
+    "lat": -9.78326,
+    "lon": -77.676428,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "HUARAZ": 24.9348,
+      "RECUAY": 33.475,
+      "HUARMEY": 44.2152
+    }
+  },
+  "ALTO AMAZONAS": {
+    "lat": -5.319317,
+    "lon": -76.107665,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "LAMAS": 111.8866,
+      "MOYOBAMBA": 129.7636,
+      "SAN MARTIN": 134.1385,
+      "DATEM DEL MARAÑON": 163.1682,
+      "LORETO": 190.1183,
+      "REQUENA": 240.2576
+    }
+  },
+  "AMBO": {
+    "lat": -10.227944,
+    "lon": -76.236937,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "DANIEL ALCIDES CARRION": 41.0713,
+      "PACHITEA": 42.8465,
+      "LAURICOCHA": 51.1068,
+      "HUANUCO": 52.215,
+      "PASCO": 58.6556
+    }
+  },
+  "ANDAHUAYLAS": {
+    "lat": -13.82719,
+    "lon": -73.392568,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "SUCRE": 48.9594,
+      "CHINCHEROS": 49.9473,
+      "VILCAS HUAMAN": 57.7986,
+      "AYMARAES": 59.2064,
+      "ABANCAY": 61.4444,
+      "LA MAR": 93.6442,
+      "LUCANAS": 135.3253,
+      "PARINACOCHAS": 136.3383,
+      "LA CONVENCION": 171.9887
+    }
+  },
+  "ANGARAES": {
+    "lat": -13.046919,
+    "lon": -74.628029,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "ACOBAMBA": 28.4517,
+      "HUAMANGA": 49.7422,
+      "HUANCAVELICA": 61.7128,
+      "HUANTA": 73.0225,
+      "HUAYTARA": 84.1436
+    }
+  },
+  "ANTA": {
+    "lat": -13.489819,
+    "lon": -72.367959,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "URUBAMBA": 27.2026,
+      "CUSCO": 42.3653,
+      "ABANCAY": 56.9395,
+      "COTABAMBAS": 59.772,
+      "PARURO": 65.7522,
+      "LA CONVENCION": 140.2809
+    }
+  },
+  "ANTABAMBA": {
+    "lat": -14.438272,
+    "lon": -72.737986,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "GRAU": 43.7614,
+      "AYMARAES": 55.9806,
+      "COTABAMBAS": 68.8628,
+      "LA UNION": 70.118,
+      "CHUMBIVILCAS": 78.2617,
+      "ABANCAY": 79.1686,
+      "PARINACOCHAS": 116.7676
+    }
+  },
+  "ANTONIO RAYMONDI": {
+    "lat": -9.132582,
+    "lon": -77.053427,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "CARLOS FERMIN FITZCARRALD": 22.8579,
+      "HUACAYBAMBA": 30.7296,
+      "HUARI": 33.9592
+    }
+  },
+  "AREQUIPA": {
+    "lat": -16.34582,
+    "lon": -71.555387,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "ISLAY": 70.5525,
+      "CAYLLOMA": 75.432,
+      "GENERAL SANCHEZ CERRO": 78.6039,
+      "CAMANA": 133.4711,
+      "SAN ROMAN": 140.7427
+    }
+  },
+  "ASCOPE": {
+    "lat": -7.72576,
+    "lon": -79.151899,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "PACASMAYO": 44.6412,
+      "CONTUMAZA": 45.3423,
+      "TRUJILLO": 47.0893,
+      "GRAN CHIMU": 57.7088,
+      "OTUZCO": 66.7616
+    }
+  },
+  "ASUNCION": {
+    "lat": -9.190905,
+    "lon": -77.398544,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "CARHUAZ": 21.6194,
+      "CARLOS FERMIN FITZCARRALD": 23.5247,
+      "YUNGAY": 37.854,
+      "HUARI": 44.2059
+    }
+  },
+  "ATALAYA": {
+    "lat": -10.388936,
+    "lon": -73.219483,
+    "departamento": "UCAYALI",
+    "adyacentes": {
+      "SATIPO": 162.0209,
+      "PURUS": 179.1619,
+      "OXAPAMPA": 192.115,
+      "CORONEL PORTILLO": 212.1795,
+      "LA CONVENCION": 220.4328,
+      "MANU": 297.7905,
+      "TAHUAMANU": 327.0178,
+      "TAMBOPATA": 400.3637
+    }
+  },
+  "AYABACA": {
+    "lat": -4.715439,
+    "lon": -79.813779,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "MORROPON": 63.4024,
+      "PIURA": 84.0482,
+      "HUANCABAMBA": 87.6274,
+      "SULLANA": 92.7101
+    }
+  },
+  "AYMARAES": {
+    "lat": -14.340826,
+    "lon": -73.247908,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "ANTABAMBA": 55.9806,
+      "ANDAHUAYLAS": 59.2064,
+      "ABANCAY": 81.1954,
+      "PARINACOCHAS": 87.2579
+    }
+  },
+  "AZANGARO": {
+    "lat": -14.809801,
+    "lon": -70.145972,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "SAN ANTONIO DE PUTINA": 58.095,
+      "MELGAR": 62.7304,
+      "HUANCANE": 67.2864,
+      "LAMPA": 83.1133,
+      "SAN ROMAN": 103.4079,
+      "CARABAYA": 113.3544
+    }
+  },
+  "BAGUA": {
+    "lat": -5.089641,
+    "lon": -78.399712,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "SAN IGNACIO": 60.4018,
+      "UTCUBAMBA": 76.0826,
+      "JAEN": 96.4601,
+      "CONDORCANQUI": 110.369
+    }
+  },
+  "BARRANCA": {
+    "lat": -10.670049,
+    "lon": -77.656629,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "OCROS": 32.0657,
+      "HUAURA": 61.0224,
+      "HUARMEY": 70.4748,
+      "BOLOGNESI": 83.3502
+    }
+  },
+  "BELLAVISTA": {
+    "lat": -7.638162,
+    "lon": -76.319498,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "TOCACHE": 76.5187,
+      "PICOTA": 82.1868,
+      "MARISCAL CACERES": 103.588,
+      "UCAYALI": 111.3338,
+      "HUALLAGA": 115.9825,
+      "EL DORADO": 128.7597,
+      "LEONCIO PRADO": 160.476
+    }
+  },
+  "BOLIVAR": {
+    "lat": -7.280158,
+    "lon": -77.741234,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "SAN MARCOS": 35.5202,
+      "CAJABAMBA": 48.6519,
+      "SANCHEZ CARRION": 59.7548,
+      "MARISCAL CACERES": 61.4272,
+      "CELENDIN": 74.1501,
+      "CHACHAPOYAS": 93.313,
+      "PATAZ": 106.138
+    }
+  },
+  "BOLOGNESI": {
+    "lat": -10.110294,
+    "lon": -77.149764,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "RECUAY": 34.7549,
+      "CAJATAMBO": 47.0678,
+      "LAURICOCHA": 49.9479,
+      "OCROS": 51.953,
+      "HUARI": 75.2697,
+      "DOS DE MAYO": 76.3025,
+      "BARRANCA": 83.3502,
+      "HUARMEY": 85.1268,
+      "HUAMALIES": 100.7322
+    }
+  },
+  "BONGARA": {
+    "lat": -5.680339,
+    "lon": -77.873261,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "RIOJA": 49.3955,
+      "UTCUBAMBA": 51.6027,
+      "LUYA": 73.8388,
+      "CHACHAPOYAS": 85.3367,
+      "MOYOBAMBA": 86.0678,
+      "CONDORCANQUI": 169.5207,
+      "DATEM DEL MARAÑON": 198.3767
+    }
+  },
+  "CAJABAMBA": {
+    "lat": -7.540795,
+    "lon": -78.09563,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "SAN MARCOS": 28.8124,
+      "SANCHEZ CARRION": 34.7334,
+      "BOLIVAR": 48.6519,
+      "CAJAMARCA": 56.205,
+      "OTUZCO": 60.6952,
+      "GRAN CHIMU": 61.1839
+    }
+  },
+  "CAJAMARCA": {
+    "lat": -7.198552,
+    "lon": -78.470701,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "SAN PABLO": 33.5941,
+      "SAN MARCOS": 45.9307,
+      "GRAN CHIMU": 46.7811,
+      "CELENDIN": 53.0108,
+      "HUALGAYOC": 55.1024,
+      "CAJABAMBA": 56.205,
+      "CONTUMAZA": 59.0487
+    }
+  },
+  "CAJATAMBO": {
+    "lat": -10.518266,
+    "lon": -77.035064,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "OYON": 31.8091,
+      "OCROS": 43.1833,
+      "BOLOGNESI": 47.0678,
+      "LAURICOCHA": 50.4476,
+      "HUAURA": 61.5542
+    }
+  },
+  "CALCA": {
+    "lat": -12.983133,
+    "lon": -72.038557,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "URUBAMBA": 40.8565,
+      "PAUCARTAMBO": 58.5436,
+      "CUSCO": 63.6338,
+      "MANU": 113.1405,
+      "LA CONVENCION": 118.9636,
+      "QUISPICANCHI": 124.4664
+    }
+  },
+  "CALLAO": {
+    "lat": -11.942667,
+    "lon": -77.12657,
+    "departamento": "CALLAO",
+    "adyacentes": {
+      "LIMA": 25.7331
+    }
+  },
+  "CAMANA": {
+    "lat": -16.401358,
+    "lon": -72.805123,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "CONDESUYOS": 89.937,
+      "CASTILLA": 102.4518,
+      "ISLAY": 131.113,
+      "AREQUIPA": 133.4711,
+      "CAYLLOMA": 144.7312,
+      "CARAVELI": 146.9184
+    }
+  },
+  "CANAS": {
+    "lat": -14.438602,
+    "lon": -71.34563,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "CANCHIS": 45.9087,
+      "ESPINAR": 51.7561,
+      "ACOMAYO": 63.5564,
+      "CHUMBIVILCAS": 71.7718,
+      "MELGAR": 73.1657
+    }
+  },
+  "CANCHIS": {
+    "lat": -14.084344,
+    "lon": -71.126847,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "CANAS": 45.9087,
+      "ACOMAYO": 58.9292,
+      "QUISPICANCHI": 63.0813,
+      "MELGAR": 74.116,
+      "CARABAYA": 107.2964
+    }
+  },
+  "CANDARAVE": {
+    "lat": -17.11265,
+    "lon": -70.301759,
+    "departamento": "TACNA",
+    "adyacentes": {
+      "TARATA": 48.4954,
+      "MARISCAL NIETO": 52.6863,
+      "JORGE BASADRE": 68.7298,
+      "EL COLLAO": 72.2394,
+      "TACNA": 87.1019
+    }
+  },
+  "CANGALLO": {
+    "lat": -13.499084,
+    "lon": -74.484656,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "VICTOR FAJARDO": 36.6473,
+      "HUAMANGA": 37.5603,
+      "VILCAS HUAMAN": 65.8006,
+      "HUAYTARA": 67.8583
+    }
+  },
+  "CANTA": {
+    "lat": -11.541821,
+    "lon": -76.70795,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "HUARAL": 32.8708,
+      "HUAROCHIRI": 53.912,
+      "LIMA": 57.3109,
+      "YAULI": 63.883
+    }
+  },
+  "CAÑETE": {
+    "lat": -12.794122,
+    "lon": -76.362996,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "YAUYOS": 58.8671,
+      "CHINCHA": 74.2279,
+      "HUAROCHIRI": 95.1842,
+      "LIMA": 104.1725
+    }
+  },
+  "CARABAYA": {
+    "lat": -13.790905,
+    "lon": -70.17972,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "SANDIA": 92.5267,
+      "QUISPICANCHI": 96.739,
+      "MELGAR": 104.7996,
+      "CANCHIS": 107.2964,
+      "AZANGARO": 113.3544,
+      "SAN ANTONIO DE PUTINA": 119.1093,
+      "TAMBOPATA": 177.2271,
+      "MANU": 206.3306
+    }
+  },
+  "CARAVELI": {
+    "lat": -15.690042,
+    "lon": -73.963725,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "PARINACOCHAS": 81.3692,
+      "PAUCAR DEL SARA SARA": 97.9814,
+      "LUCANAS": 126.4356,
+      "CONDESUYOS": 132.568,
+      "LA UNION": 142.3438,
+      "NAZCA": 145.8596,
+      "CAMANA": 146.9184
+    }
+  },
+  "CARHUAZ": {
+    "lat": -9.289662,
+    "lon": -77.568225,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "YUNGAY": 21.4733,
+      "ASUNCION": 21.6194,
+      "HUARAZ": 31.3229,
+      "HUARI": 55.8051
+    }
+  },
+  "CARLOS FERMIN FITZCARRALD": {
+    "lat": -9.04613,
+    "lon": -77.242301,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "MARISCAL LUZURIAGA": 22.4331,
+      "ANTONIO RAYMONDI": 22.8579,
+      "ASUNCION": 23.5247,
+      "HUARI": 46.8607,
+      "HUACAYBAMBA": 47.7679,
+      "YUNGAY": 57.6979
+    }
+  },
+  "CASMA": {
+    "lat": -9.485323,
+    "lon": -78.185822,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "YUNGAY": 57.8162,
+      "SANTA": 58.4919,
+      "HUARAZ": 60.0584,
+      "HUARMEY": 73.4613
+    }
+  },
+  "CASTILLA": {
+    "lat": -15.604976,
+    "lon": -72.323078,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "CONDESUYOS": 43.542,
+      "CAYLLOMA": 69.4189,
+      "CAMANA": 102.4518
+    }
+  },
+  "CASTROVIRREYNA": {
+    "lat": -13.144338,
+    "lon": -75.40463,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "HUANCAVELICA": 58.6339,
+      "CHINCHA": 60.9937,
+      "HUAYTARA": 66.0428,
+      "YAUYOS": 88.2814,
+      "PISCO": 93.6873
+    }
+  },
+  "CAYLLOMA": {
+    "lat": -15.677967,
+    "lon": -71.679217,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "CASTILLA": 69.4189,
+      "AREQUIPA": 75.432,
+      "ESPINAR": 92.0045,
+      "CONDESUYOS": 112.8371,
+      "LAMPA": 115.9124,
+      "SAN ROMAN": 134.5728,
+      "CHUMBIVILCAS": 139.6095,
+      "CAMANA": 144.7312
+    }
+  },
+  "CELENDIN": {
+    "lat": -6.799859,
+    "lon": -78.20735,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "HUALGAYOC": 38.8158,
+      "CAJAMARCA": 53.0108,
+      "LUYA": 56.0936,
+      "SAN MARCOS": 56.0989,
+      "CHACHAPOYAS": 62.0848,
+      "BOLIVAR": 74.1501,
+      "CHOTA": 83.8373
+    }
+  },
+  "CHACHAPOYAS": {
+    "lat": -6.44169,
+    "lon": -77.77615,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "RODRIGUEZ DE MENDOZA": 36.4794,
+      "LUYA": 36.927,
+      "CELENDIN": 62.0848,
+      "RIOJA": 72.9588,
+      "BONGARA": 85.3367,
+      "BOLIVAR": 93.313,
+      "MARISCAL CACERES": 113.3023
+    }
+  },
+  "CHANCHAMAYO": {
+    "lat": -11.029559,
+    "lon": -75.131779,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "TARMA": 66.0225,
+      "JAUJA": 83.0017,
+      "OXAPAMPA": 83.6274,
+      "SATIPO": 126.9678
+    }
+  },
+  "CHEPEN": {
+    "lat": -7.143078,
+    "lon": -79.456,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "PACASMAYO": 31.9369,
+      "CHICLAYO": 38.922,
+      "SAN MIGUEL": 53.9377,
+      "CONTUMAZA": 57.2555
+    }
+  },
+  "CHICLAYO": {
+    "lat": -6.805519,
+    "lon": -79.549308,
+    "departamento": "LAMBAYEQUE",
+    "adyacentes": {
+      "CHEPEN": 38.922,
+      "FERREÑAFE": 48.5976,
+      "SAN MIGUEL": 63.9261,
+      "SANTA CRUZ": 64.1214,
+      "LAMBAYEQUE": 83.0312,
+      "CHOTA": 85.4274
+    }
+  },
+  "CHINCHA": {
+    "lat": -13.318516,
+    "lon": -75.938956,
+    "departamento": "ICA",
+    "adyacentes": {
+      "PISCO": 54.0909,
+      "CASTROVIRREYNA": 60.9937,
+      "CAÑETE": 74.2279,
+      "YAUYOS": 89.3866
+    }
+  },
+  "CHINCHEROS": {
+    "lat": -13.470583,
+    "lon": -73.673638,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "VILCAS HUAMAN": 31.6317,
+      "LA MAR": 47.2838,
+      "ANDAHUAYLAS": 49.9473,
+      "HUAMANGA": 64.165
+    }
+  },
+  "CHOTA": {
+    "lat": -6.435172,
+    "lon": -78.871678,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "CUTERVO": 29.219,
+      "SANTA CRUZ": 30.252,
+      "HUALGAYOC": 47.057,
+      "FERREÑAFE": 72.6921,
+      "CELENDIN": 83.8373,
+      "CHICLAYO": 85.4274,
+      "LUYA": 88.2233,
+      "UTCUBAMBA": 95.0795
+    }
+  },
+  "CHUCUITO": {
+    "lat": -16.602834,
+    "lon": -69.356681,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "EL COLLAO": 44.662,
+      "YUNGUYO": 48.7407
+    }
+  },
+  "CHUMBIVILCAS": {
+    "lat": -14.464155,
+    "lon": -72.011656,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "COTABAMBAS": 56.7409,
+      "PARURO": 65.291,
+      "ACOMAYO": 68.6004,
+      "CANAS": 71.7718,
+      "ANTABAMBA": 78.2617,
+      "ESPINAR": 83.7502,
+      "LA UNION": 108.3689,
+      "CAYLLOMA": 139.6095,
+      "CONDESUYOS": 147.571
+    }
+  },
+  "CHUPACA": {
+    "lat": -12.207322,
+    "lon": -75.432792,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "HUANCAYO": 41.8189,
+      "CONCEPCION": 59.1006,
+      "YAUYOS": 61.3802
+    }
+  },
+  "CHURCAMPA": {
+    "lat": -12.615771,
+    "lon": -74.489336,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "ACOBAMBA": 22.2219,
+      "HUANTA": 34.9568,
+      "TAYACAJA": 51.1783,
+      "HUANCAVELICA": 65.7697
+    }
+  },
+  "CONCEPCION": {
+    "lat": -11.76568,
+    "lon": -75.13048,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "HUANCAYO": 37.3168,
+      "JAUJA": 40.3309,
+      "CHUPACA": 59.1006,
+      "SATIPO": 114.3726,
+      "YAUYOS": 118.2319
+    }
+  },
+  "CONDESUYOS": {
+    "lat": -15.595806,
+    "lon": -72.729527,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "CASTILLA": 43.542,
+      "LA UNION": 59.5118,
+      "CAMANA": 89.937,
+      "CAYLLOMA": 112.8371,
+      "CARAVELI": 132.568,
+      "CHUMBIVILCAS": 147.571,
+      "ESPINAR": 164.1104
+    }
+  },
+  "CONTRALMIRANTE VILLAR": {
+    "lat": -3.96984,
+    "lon": -80.742028,
+    "departamento": "TUMBES",
+    "adyacentes": {
+      "TUMBES": 38.768,
+      "TALARA": 68.6,
+      "SULLANA": 69.1578
+    }
+  },
+  "CONTUMAZA": {
+    "lat": -7.354149,
+    "lon": -78.982554,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "SAN PABLO": 40.1398,
+      "SAN MIGUEL": 41.937,
+      "GRAN CHIMU": 44.5183,
+      "ASCOPE": 45.3423,
+      "PACASMAYO": 49.3955,
+      "CHEPEN": 57.2555,
+      "CAJAMARCA": 59.0487
+    }
+  },
+  "CORONEL PORTILLO": {
+    "lat": -8.670099,
+    "lon": -74.059807,
+    "departamento": "UCAYALI",
+    "adyacentes": {
+      "PUERTO INCA": 137.1468,
+      "PADRE ABAD": 150.9905,
+      "OXAPAMPA": 206.4717,
+      "UCAYALI": 209.149,
+      "ATALAYA": 212.1795,
+      "REQUENA": 296.9995
+    }
+  },
+  "CORONGO": {
+    "lat": -8.567594,
+    "lon": -77.880262,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "PALLASCA": 27.7327,
+      "SIHUAS": 33.7541,
+      "HUAYLAS": 42.0996,
+      "SANTA": 63.1743
+    }
+  },
+  "COTABAMBAS": {
+    "lat": -14.018555,
+    "lon": -72.268196,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "GRAU": 38.241,
+      "PARURO": 40.9454,
+      "CHUMBIVILCAS": 56.7409,
+      "ANTA": 59.772,
+      "ABANCAY": 68.6987,
+      "ANTABAMBA": 68.8628
+    }
+  },
+  "CUSCO": {
+    "lat": -13.552702,
+    "lon": -71.981471,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "PARURO": 37.5949,
+      "ANTA": 42.3653,
+      "URUBAMBA": 46.8,
+      "CALCA": 63.6338,
+      "QUISPICANCHI": 102.6855
+    }
+  },
+  "CUTERVO": {
+    "lat": -6.174451,
+    "lon": -78.838703,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "CHOTA": 29.219,
+      "JAEN": 54.5483,
+      "UTCUBAMBA": 71.927,
+      "FERREÑAFE": 79.0045
+    }
+  },
+  "DANIEL ALCIDES CARRION": {
+    "lat": -10.508502,
+    "lon": -76.481167,
+    "departamento": "PASCO",
+    "adyacentes": {
+      "AMBO": 41.0713,
+      "LAURICOCHA": 41.7516,
+      "PASCO": 44.9575,
+      "OYON": 51.2879
+    }
+  },
+  "DATEM DEL MARAÑON": {
+    "lat": -4.135455,
+    "lon": -76.977677,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "CONDORCANQUI": 117.6825,
+      "ALTO AMAZONAS": 163.1682,
+      "LORETO": 196.4044,
+      "MOYOBAMBA": 196.5867,
+      "BONGARA": 198.3767
+    }
+  },
+  "DOS DE MAYO": {
+    "lat": -9.658131,
+    "lon": -76.625821,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "YAROWILCA": 16.1018,
+      "HUAMALIES": 30.5885,
+      "HUANUCO": 50.0914,
+      "LAURICOCHA": 61.1926,
+      "BOLOGNESI": 76.3025,
+      "LEONCIO PRADO": 93.2476
+    }
+  },
+  "EL COLLAO": {
+    "lat": -16.726713,
+    "lon": -69.755506,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "CHUCUITO": 44.662,
+      "CANDARAVE": 72.2394,
+      "PUNO": 79.3921,
+      "TARATA": 79.8898,
+      "MARISCAL NIETO": 114.1754
+    }
+  },
+  "EL DORADO": {
+    "lat": -6.560317,
+    "lon": -76.746012,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "HUALLAGA": 28.1744,
+      "LAMAS": 47.9538,
+      "PICOTA": 66.2095,
+      "MOYOBAMBA": 84.8843,
+      "BELLAVISTA": 128.7597
+    }
+  },
+  "ESPINAR": {
+    "lat": -14.902947,
+    "lon": -71.378819,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "CANAS": 51.7561,
+      "MELGAR": 81.9969,
+      "CHUMBIVILCAS": 83.7502,
+      "CAYLLOMA": 92.0045,
+      "LAMPA": 95.5871,
+      "CONDESUYOS": 164.1104
+    }
+  },
+  "FERREÑAFE": {
+    "lat": -6.369077,
+    "lon": -79.526146,
+    "departamento": "LAMBAYEQUE",
+    "adyacentes": {
+      "CHICLAYO": 48.5976,
+      "LAMBAYEQUE": 53.2354,
+      "CHOTA": 72.6921,
+      "CUTERVO": 79.0045,
+      "JAEN": 92.9213
+    }
+  },
+  "GENERAL SANCHEZ CERRO": {
+    "lat": -16.456249,
+    "lon": -70.827547,
+    "departamento": "MOQUEGUA",
+    "adyacentes": {
+      "MARISCAL NIETO": 61.9867,
+      "AREQUIPA": 78.6039,
+      "PUNO": 90.1638,
+      "SAN ROMAN": 94.509,
+      "ISLAY": 110.4379
+    }
+  },
+  "GRAN CHIMU": {
+    "lat": -7.580179,
+    "lon": -78.649272,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "OTUZCO": 30.5505,
+      "CONTUMAZA": 44.5183,
+      "CAJAMARCA": 46.7811,
+      "ASCOPE": 57.7088,
+      "CAJABAMBA": 61.1839
+    }
+  },
+  "GRAU": {
+    "lat": -14.061728,
+    "lon": -72.619891,
+    "departamento": "APURIMAC",
+    "adyacentes": {
+      "COTABAMBAS": 38.241,
+      "ABANCAY": 43.2148,
+      "ANTABAMBA": 43.7614
+    }
+  },
+  "HUACAYBAMBA": {
+    "lat": -8.995639,
+    "lon": -76.810349,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "ANTONIO RAYMONDI": 30.7296,
+      "MARAÑON": 33.2152,
+      "CARLOS FERMIN FITZCARRALD": 47.7679,
+      "HUAMALIES": 48.9853,
+      "HUARI": 57.389,
+      "MARISCAL LUZURIAGA": 59.6929,
+      "LEONCIO PRADO": 85.2354
+    }
+  },
+  "HUALGAYOC": {
+    "lat": -6.70878,
+    "lon": -78.546693,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "CELENDIN": 38.8158,
+      "SAN PABLO": 46.6596,
+      "CHOTA": 47.057,
+      "SANTA CRUZ": 48.1054,
+      "CAJAMARCA": 55.1024,
+      "SAN MIGUEL": 57.9583
+    }
+  },
+  "HUALLAGA": {
+    "lat": -6.765603,
+    "lon": -76.895542,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "EL DORADO": 28.1744,
+      "MARISCAL CACERES": 64.9149,
+      "RODRIGUEZ DE MENDOZA": 75.6149,
+      "MOYOBAMBA": 99.8782,
+      "BELLAVISTA": 115.9825
+    }
+  },
+  "HUAMALIES": {
+    "lat": -9.384215,
+    "lon": -76.600091,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "DOS DE MAYO": 30.5885,
+      "HUACAYBAMBA": 48.9853,
+      "HUARI": 53.1745,
+      "LEONCIO PRADO": 71.945,
+      "BOLOGNESI": 100.7322
+    }
+  },
+  "HUAMANGA": {
+    "lat": -13.269783,
+    "lon": -74.229696,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "CANGALLO": 37.5603,
+      "ANGARAES": 49.7422,
+      "VILCAS HUAMAN": 55.8571,
+      "LA MAR": 60.3917,
+      "CHINCHEROS": 64.165,
+      "HUANTA": 78.7282,
+      "HUAYTARA": 102.568
+    }
+  },
+  "HUANCA SANCOS": {
+    "lat": -13.943938,
+    "lon": -74.459454,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "VICTOR FAJARDO": 27.5357,
+      "VICTOR FAFARDO": 50.2397,
+      "HUAYTARA": 75.4934,
+      "LUCANAS": 75.6189
+    }
+  },
+  "HUANCABAMBA": {
+    "lat": -5.444716,
+    "lon": -79.513967,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "MORROPON": 56.6855,
+      "JAEN": 63.655,
+      "SAN IGNACIO": 72.4762,
+      "AYABACA": 87.6274,
+      "LAMBAYEQUE": 96.9628
+    }
+  },
+  "HUANCANE": {
+    "lat": -15.117509,
+    "lon": -69.606637,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "MOHO": 34.2409,
+      "SAN ANTONIO DE PUTINA": 45.1179,
+      "AZANGARO": 67.2864,
+      "SAN ROMAN": 108.8664,
+      "PUNO": 118.6232
+    }
+  },
+  "HUANCAVELICA": {
+    "lat": -12.717839,
+    "lon": -75.086478,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "ACOBAMBA": 55.7449,
+      "CASTROVIRREYNA": 58.6339,
+      "ANGARAES": 61.7128,
+      "TAYACAJA": 62.8373,
+      "CHURCAMPA": 65.7697,
+      "HUANCAYO": 69.2698,
+      "YAUYOS": 91.2723,
+      "HUAYTARA": 104.1412
+    }
+  },
+  "HUANCAYO": {
+    "lat": -12.095215,
+    "lon": -75.065575,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "TAYACAJA": 36.2987,
+      "CONCEPCION": 37.3168,
+      "CHUPACA": 41.8189,
+      "HUANCAVELICA": 69.2698,
+      "YAUYOS": 102.1473,
+      "SATIPO": 120.5961
+    }
+  },
+  "HUANTA": {
+    "lat": -12.564031,
+    "lon": -74.171609,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "CHURCAMPA": 34.9568,
+      "ACOBAMBA": 51.1201,
+      "LA MAR": 72.6971,
+      "ANGARAES": 73.0225,
+      "TAYACAJA": 73.9268,
+      "HUAMANGA": 78.7282,
+      "SATIPO": 111.7876,
+      "LA CONVENCION": 137.7165
+    }
+  },
+  "HUANUCO": {
+    "lat": -9.761605,
+    "lon": -76.181011,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "PACHITEA": 45.14,
+      "YAROWILCA": 45.6341,
+      "DOS DE MAYO": 50.0914,
+      "AMBO": 52.215,
+      "LAURICOCHA": 75.376,
+      "LEONCIO PRADO": 80.2724
+    }
+  },
+  "HUARAL": {
+    "lat": -11.325018,
+    "lon": -76.912977,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "CANTA": 32.8708,
+      "HUAURA": 48.0343,
+      "LIMA": 77.3167,
+      "YAULI": 88.1007,
+      "PASCO": 105.0792
+    }
+  },
+  "HUARAZ": {
+    "lat": -9.561362,
+    "lon": -77.643611,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "AIJA": 24.9348,
+      "CARHUAZ": 31.3229,
+      "YUNGAY": 41.2953,
+      "RECUAY": 49.7473,
+      "CASMA": 60.0584,
+      "HUARI": 63.1438,
+      "HUARMEY": 66.9672
+    }
+  },
+  "HUARI": {
+    "lat": -9.436689,
+    "lon": -77.081897,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "ANTONIO RAYMONDI": 33.9592,
+      "ASUNCION": 44.2059,
+      "CARLOS FERMIN FITZCARRALD": 46.8607,
+      "HUAMALIES": 53.1745,
+      "CARHUAZ": 55.8051,
+      "HUACAYBAMBA": 57.389,
+      "HUARAZ": 63.1438,
+      "RECUAY": 68.5638,
+      "BOLOGNESI": 75.2697
+    }
+  },
+  "HUARMEY": {
+    "lat": -10.094852,
+    "lon": -77.927227,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "AIJA": 44.2152,
+      "RECUAY": 57.3174,
+      "HUARAZ": 66.9672,
+      "BARRANCA": 70.4748,
+      "CASMA": 73.4613,
+      "BOLOGNESI": 85.1268
+    }
+  },
+  "HUAROCHIRI": {
+    "lat": -11.940316,
+    "lon": -76.42587,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "LIMA": 52.7297,
+      "CANTA": 53.912,
+      "YAULI": 59.4393,
+      "YAUYOS": 85.6466,
+      "CAÑETE": 95.1842,
+      "JAUJA": 105.4565
+    }
+  },
+  "HUAURA": {
+    "lat": -11.0344,
+    "lon": -77.23877,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "HUARAL": 48.0343,
+      "OYON": 50.1481,
+      "BARRANCA": 61.0224,
+      "CAJATAMBO": 61.5542,
+      "OCROS": 64.1753,
+      "PASCO": 123.0512
+    }
+  },
+  "HUAYLAS": {
+    "lat": -8.94266,
+    "lon": -77.827969,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "YUNGAY": 30.4313,
+      "CORONGO": 42.0996,
+      "POMABAMBA": 49.8847,
+      "SANTA": 50.5246,
+      "SIHUAS": 57.69
+    }
+  },
+  "HUAYTARA": {
+    "lat": -13.654389,
+    "lon": -75.091794,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "CASTROVIRREYNA": 66.0428,
+      "CANGALLO": 67.8583,
+      "HUANCA SANCOS": 75.4934,
+      "PALPA": 80.3115,
+      "ANGARAES": 84.1436,
+      "VICTOR FAJARDO": 88.1563,
+      "ICA": 93.3216,
+      "PISCO": 93.3918,
+      "HUAMANGA": 102.568,
+      "HUANCAVELICA": 104.1412,
+      "LUCANAS": 133.5512
+    }
+  },
+  "ICA": {
+    "lat": -14.300917,
+    "lon": -75.643253,
+    "departamento": "ICA",
+    "adyacentes": {
+      "PALPA": 50.958,
+      "PISCO": 63.8943,
+      "HUAYTARA": 93.3216,
+      "NAZCA": 93.5337
+    }
+  },
+  "ILO": {
+    "lat": -17.579086,
+    "lon": -71.20907,
+    "departamento": "MOQUEGUA",
+    "adyacentes": {
+      "JORGE BASADRE": 50.916,
+      "MARISCAL NIETO": 77.3824,
+      "ISLAY": 87.7144
+    }
+  },
+  "ISLAY": {
+    "lat": -16.960113,
+    "lon": -71.72117,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "AREQUIPA": 70.5525,
+      "ILO": 87.7144,
+      "MARISCAL NIETO": 99.603,
+      "GENERAL SANCHEZ CERRO": 110.4379,
+      "CAMANA": 131.113
+    }
+  },
+  "JAEN": {
+    "lat": -5.712897,
+    "lon": -79.0058,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "CUTERVO": 54.5483,
+      "HUANCABAMBA": 63.655,
+      "SAN IGNACIO": 65.8121,
+      "UTCUBAMBA": 74.9544,
+      "FERREÑAFE": 92.9213,
+      "BAGUA": 96.4601,
+      "LAMBAYEQUE": 119.2179
+    }
+  },
+  "JAUJA": {
+    "lat": -11.687116,
+    "lon": -75.492121,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "CONCEPCION": 40.3309,
+      "TARMA": 49.7988,
+      "YAULI": 72.0151,
+      "CHANCHAMAYO": 83.0017,
+      "YAUYOS": 102.3058,
+      "HUAROCHIRI": 105.4565,
+      "SATIPO": 152.1374
+    }
+  },
+  "JORGE BASADRE": {
+    "lat": -17.57734,
+    "lon": -70.728746,
+    "departamento": "TACNA",
+    "adyacentes": {
+      "ILO": 50.916,
+      "MARISCAL NIETO": 63.1248,
+      "TACNA": 64.1737,
+      "CANDARAVE": 68.7298,
+      "TARATA": 82.2396
+    }
+  },
+  "JULCAN": {
+    "lat": -8.167737,
+    "lon": -78.463737,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "SANTIAGO DE CHUCO": 35.8131,
+      "OTUZCO": 37.942,
+      "VIRU": 42.0756,
+      "TRUJILLO": 48.9987
+    }
+  },
+  "JUNIN": {
+    "lat": -11.03651,
+    "lon": -75.906342,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "TARMA": 36.5184,
+      "PASCO": 41.6429,
+      "YAULI": 56.2371,
+      "OXAPAMPA": 131.2243
+    }
+  },
+  "LA CONVENCION": {
+    "lat": -12.349818,
+    "lon": -72.92235,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "LA MAR": 116.2861,
+      "CALCA": 118.9636,
+      "URUBAMBA": 122.0188,
+      "HUANTA": 137.7165,
+      "ANTA": 140.2809,
+      "ABANCAY": 154.0206,
+      "SATIPO": 155.3622,
+      "ANDAHUAYLAS": 171.9887,
+      "MANU": 178.0367,
+      "ATALAYA": 220.4328
+    }
+  },
+  "LA MAR": {
+    "lat": -13.047818,
+    "lon": -73.720641,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "CHINCHEROS": 47.2838,
+      "HUAMANGA": 60.3917,
+      "HUANTA": 72.6971,
+      "ANDAHUAYLAS": 93.6442,
+      "LA CONVENCION": 116.2861
+    }
+  },
+  "LA UNION": {
+    "lat": -15.065544,
+    "lon": -72.804757,
+    "departamento": "AREQUIPA",
+    "adyacentes": {
+      "PAUCAR DEL SARA SARA": 49.645,
+      "CONDESUYOS": 59.5118,
+      "ANTABAMBA": 70.118,
+      "PARINACOCHAS": 89.1849,
+      "CHUMBIVILCAS": 108.3689,
+      "CARAVELI": 142.3438
+    }
+  },
+  "LAMAS": {
+    "lat": -6.276633,
+    "lon": -76.419144,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "EL DORADO": 47.9538,
+      "SAN MARTIN": 65.4726,
+      "PICOTA": 71.8477,
+      "MOYOBAMBA": 88.8584,
+      "ALTO AMAZONAS": 111.8866
+    }
+  },
+  "LAMBAYEQUE": {
+    "lat": -6.188149,
+    "lon": -79.972074,
+    "departamento": "LAMBAYEQUE",
+    "adyacentes": {
+      "FERREÑAFE": 53.2354,
+      "CHICLAYO": 83.0312,
+      "SECHURA": 85.0844,
+      "HUANCABAMBA": 96.9628,
+      "MORROPON": 103.4671,
+      "PIURA": 118.2044,
+      "JAEN": 119.2179
+    }
+  },
+  "LAMPA": {
+    "lat": -15.384439,
+    "lon": -70.64106,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "SAN ROMAN": 42.2589,
+      "AZANGARO": 83.1133,
+      "MELGAR": 87.8299,
+      "ESPINAR": 95.5871,
+      "CAYLLOMA": 115.9124
+    }
+  },
+  "LAURICOCHA": {
+    "lat": -10.203136,
+    "lon": -76.703274,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "DANIEL ALCIDES CARRION": 41.7516,
+      "YAROWILCA": 46.366,
+      "BOLOGNESI": 49.9479,
+      "CAJATAMBO": 50.4476,
+      "AMBO": 51.1068,
+      "DOS DE MAYO": 61.1926,
+      "OYON": 64.5058,
+      "HUANUCO": 75.376
+    }
+  },
+  "LEONCIO PRADO": {
+    "lat": -9.053926,
+    "lon": -76.036447,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "HUAMALIES": 71.945,
+      "PADRE ABAD": 72.7603,
+      "HUANUCO": 80.2724,
+      "MARAÑON": 80.9345,
+      "HUACAYBAMBA": 85.2354,
+      "DOS DE MAYO": 93.2476,
+      "PUERTO INCA": 109.6026,
+      "TOCACHE": 111.0265,
+      "PACHITEA": 111.8254,
+      "BELLAVISTA": 160.476,
+      "UCAYALI": 207.9069
+    }
+  },
+  "LIMA": {
+    "lat": -12.020284,
+    "lon": -76.903696,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "CALLAO": 25.7331,
+      "HUAROCHIRI": 52.7297,
+      "CANTA": 57.3109,
+      "HUARAL": 77.3167,
+      "CAÑETE": 104.1725
+    }
+  },
+  "LORETO": {
+    "lat": -3.85011,
+    "lon": -75.230328,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "ALTO AMAZONAS": 190.1183,
+      "DATEM DEL MARAÑON": 196.4044,
+      "MAYNAS": 240.8482,
+      "REQUENA": 272.5742
+    }
+  },
+  "LUCANAS": {
+    "lat": -14.615528,
+    "lon": -74.349056,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "HUANCA SANCOS": 75.6189,
+      "VICTOR FAFARDO": 82.029,
+      "SUCRE": 86.3894,
+      "NAZCA": 86.7873,
+      "PARINACOCHAS": 89.6157,
+      "PALPA": 93.0495,
+      "VICTOR FAJARDO": 94.889,
+      "CARAVELI": 126.4356,
+      "HUAYTARA": 133.5512,
+      "ANDAHUAYLAS": 135.3253
+    }
+  },
+  "LUYA": {
+    "lat": -6.310703,
+    "lon": -78.083218,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "CHACHAPOYAS": 36.927,
+      "CELENDIN": 56.0936,
+      "UTCUBAMBA": 66.0202,
+      "BONGARA": 73.8388,
+      "CHOTA": 88.2233
+    }
+  },
+  "MANU": {
+    "lat": -12.279757,
+    "lon": -71.285085,
+    "departamento": "MADRE DE DIOS",
+    "adyacentes": {
+      "PAUCARTAMBO": 100.7337,
+      "CALCA": 113.1405,
+      "TAMBOPATA": 134.7826,
+      "QUISPICANCHI": 141.1068,
+      "LA CONVENCION": 178.0367,
+      "CARABAYA": 206.3306,
+      "ATALAYA": 297.7905
+    }
+  },
+  "MARAÑON": {
+    "lat": -8.720958,
+    "lon": -76.691549,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "HUACAYBAMBA": 33.2152,
+      "TOCACHE": 52.651,
+      "MARISCAL LUZURIAGA": 72.9142,
+      "LEONCIO PRADO": 80.9345,
+      "POMABAMBA": 81.7386,
+      "PATAZ": 94.9708
+    }
+  },
+  "MARISCAL CACERES": {
+    "lat": -7.27418,
+    "lon": -77.184352,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "BOLIVAR": 61.4272,
+      "HUALLAGA": 64.9149,
+      "PATAZ": 97.6651,
+      "BELLAVISTA": 103.588,
+      "RODRIGUEZ DE MENDOZA": 104.6504,
+      "CHACHAPOYAS": 113.3023,
+      "TOCACHE": 124.2357
+    }
+  },
+  "MARISCAL LUZURIAGA": {
+    "lat": -8.868,
+    "lon": -77.338186,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "POMABAMBA": 19.8347,
+      "CARLOS FERMIN FITZCARRALD": 22.4331,
+      "YUNGAY": 58.0288,
+      "HUACAYBAMBA": 59.6929,
+      "MARAÑON": 72.9142
+    }
+  },
+  "MARISCAL NIETO": {
+    "lat": -17.012297,
+    "lon": -70.786149,
+    "departamento": "MOQUEGUA",
+    "adyacentes": {
+      "CANDARAVE": 52.6863,
+      "GENERAL SANCHEZ CERRO": 61.9867,
+      "JORGE BASADRE": 63.1248,
+      "ILO": 77.3824,
+      "ISLAY": 99.603,
+      "EL COLLAO": 114.1754,
+      "PUNO": 127.9828
+    }
+  },
+  "MARISCAL RAMON CASTILLA": {
+    "lat": -3.926665,
+    "lon": -71.702147,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "MAYNAS": 248.1394,
+      "REQUENA": 347.2089
+    }
+  },
+  "MAYNAS": {
+    "lat": -2.572286,
+    "lon": -73.47862,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "LORETO": 240.8482,
+      "MARISCAL RAMON CASTILLA": 248.1394,
+      "REQUENA": 386.2189
+    }
+  },
+  "MELGAR": {
+    "lat": -14.595738,
+    "lon": -70.685599,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "AZANGARO": 62.7304,
+      "CANAS": 73.1657,
+      "CANCHIS": 74.116,
+      "ESPINAR": 81.9969,
+      "LAMPA": 87.8299,
+      "CARABAYA": 104.7996
+    }
+  },
+  "MOHO": {
+    "lat": -15.334949,
+    "lon": -69.380657,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "HUANCANE": 34.2409
+    }
+  },
+  "MORROPON": {
+    "lat": -5.257824,
+    "lon": -79.990335,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "PIURA": 44.3999,
+      "HUANCABAMBA": 56.6855,
+      "AYABACA": 63.4024,
+      "LAMBAYEQUE": 103.4671
+    }
+  },
+  "MOYOBAMBA": {
+    "lat": -5.897182,
+    "lon": -77.126421,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "RIOJA": 37.763,
+      "RODRIGUEZ DE MENDOZA": 63.9819,
+      "EL DORADO": 84.8843,
+      "BONGARA": 86.0678,
+      "LAMAS": 88.8584,
+      "HUALLAGA": 99.8782,
+      "ALTO AMAZONAS": 129.7636,
+      "DATEM DEL MARAÑON": 196.5867
+    }
+  },
+  "NAZCA": {
+    "lat": -14.943072,
+    "lon": -75.081739,
+    "departamento": "ICA",
+    "adyacentes": {
+      "PALPA": 64.3027,
+      "LUCANAS": 86.7873,
+      "ICA": 93.5337,
+      "CARAVELI": 145.8596
+    }
+  },
+  "OCROS": {
+    "lat": -10.488306,
+    "lon": -77.428862,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "BARRANCA": 32.0657,
+      "CAJATAMBO": 43.1833,
+      "BOLOGNESI": 51.953,
+      "HUAURA": 64.1753
+    }
+  },
+  "OTUZCO": {
+    "lat": -7.839206,
+    "lon": -78.556832,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "GRAN CHIMU": 30.5505,
+      "JULCAN": 37.942,
+      "TRUJILLO": 45.1041,
+      "SANTIAGO DE CHUCO": 59.2813,
+      "CAJABAMBA": 60.6952,
+      "ASCOPE": 66.7616,
+      "SANCHEZ CARRION": 71.7036
+    }
+  },
+  "OXAPAMPA": {
+    "lat": -10.293827,
+    "lon": -74.973084,
+    "departamento": "PASCO",
+    "adyacentes": {
+      "CHANCHAMAYO": 83.6274,
+      "PUERTO INCA": 103.7856,
+      "PACHITEA": 103.9923,
+      "JUNIN": 131.2243,
+      "TARMA": 134.1006,
+      "PASCO": 138.2531,
+      "SATIPO": 170.0483,
+      "ATALAYA": 192.115,
+      "CORONEL PORTILLO": 206.4717
+    }
+  },
+  "OYON": {
+    "lat": -10.757833,
+    "lon": -76.875993,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "CAJATAMBO": 31.8091,
+      "HUAURA": 50.1481,
+      "DANIEL ALCIDES CARRION": 51.2879,
+      "LAURICOCHA": 64.5058,
+      "PASCO": 79.3045
+    }
+  },
+  "PACASMAYO": {
+    "lat": -7.428553,
+    "lon": -79.424173,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "CHEPEN": 31.9369,
+      "ASCOPE": 44.6412,
+      "CONTUMAZA": 49.3955
+    }
+  },
+  "PACHITEA": {
+    "lat": -10.049196,
+    "lon": -75.890162,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "AMBO": 42.8465,
+      "HUANUCO": 45.14,
+      "PASCO": 82.7921,
+      "OXAPAMPA": 103.9923,
+      "LEONCIO PRADO": 111.8254,
+      "PUERTO INCA": 115.9299
+    }
+  },
+  "PADRE ABAD": {
+    "lat": -8.795987,
+    "lon": -75.42771,
+    "departamento": "UCAYALI",
+    "adyacentes": {
+      "LEONCIO PRADO": 72.7603,
+      "PUERTO INCA": 73.5948,
+      "CORONEL PORTILLO": 150.9905,
+      "UCAYALI": 165.8683
+    }
+  },
+  "PAITA": {
+    "lat": -5.06054,
+    "lon": -81.008992,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "PUIRA": 33.8041,
+      "TALARA": 64.4945,
+      "SULLANA": 67.0019,
+      "SECHURA": 97.4549
+    }
+  },
+  "PALLASCA": {
+    "lat": -8.319401,
+    "lon": -77.905097,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "CORONGO": 27.7327,
+      "SANTIAGO DE CHUCO": 30.3013,
+      "SIHUAS": 39.5425,
+      "PATAZ": 66.7732,
+      "VIRU": 79.9211,
+      "SANTA": 83.5472
+    }
+  },
+  "PALPA": {
+    "lat": -14.372015,
+    "lon": -75.175974,
+    "departamento": "ICA",
+    "adyacentes": {
+      "ICA": 50.958,
+      "NAZCA": 64.3027,
+      "HUAYTARA": 80.3115,
+      "LUCANAS": 93.0495
+    }
+  },
+  "PARINACOCHAS": {
+    "lat": -15.030713,
+    "lon": -73.634514,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "PAUCAR DEL SARA SARA": 41.1961,
+      "CARAVELI": 81.3692,
+      "AYMARAES": 87.2579,
+      "LA UNION": 89.1849,
+      "LUCANAS": 89.6157,
+      "ANTABAMBA": 116.7676,
+      "ANDAHUAYLAS": 136.3383
+    }
+  },
+  "PARURO": {
+    "lat": -13.884538,
+    "lon": -71.914793,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "ACOMAYO": 28.9459,
+      "CUSCO": 37.5949,
+      "COTABAMBAS": 40.9454,
+      "CHUMBIVILCAS": 65.291,
+      "ANTA": 65.7522,
+      "QUISPICANCHI": 103.4225
+    }
+  },
+  "PASCO": {
+    "lat": -10.74849,
+    "lon": -76.150104,
+    "departamento": "PASCO",
+    "adyacentes": {
+      "JUNIN": 41.6429,
+      "DANIEL ALCIDES CARRION": 44.9575,
+      "AMBO": 58.6556,
+      "OYON": 79.3045,
+      "PACHITEA": 82.7921,
+      "YAULI": 83.0815,
+      "HUARAL": 105.0792,
+      "HUAURA": 123.0512,
+      "OXAPAMPA": 138.2531
+    }
+  },
+  "PATAZ": {
+    "lat": -8.141271,
+    "lon": -77.325651,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "SIHUAS": 47.5131,
+      "POMABAMBA": 65.2081,
+      "PALLASCA": 66.7732,
+      "SANCHEZ CARRION": 74.9706,
+      "TOCACHE": 76.8378,
+      "SANTIAGO DE CHUCO": 89.5401,
+      "MARAÑON": 94.9708,
+      "MARISCAL CACERES": 97.6651,
+      "BOLIVAR": 106.138
+    }
+  },
+  "PAUCAR DEL SARA SARA": {
+    "lat": -15.124042,
+    "lon": -73.263194,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "PARINACOCHAS": 41.1961,
+      "LA UNION": 49.645,
+      "CARAVELI": 97.9814
+    }
+  },
+  "PAUCARTAMBO": {
+    "lat": -13.154292,
+    "lon": -71.52742,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "CALCA": 58.5436,
+      "QUISPICANCHI": 67.5853,
+      "MANU": 100.7337
+    }
+  },
+  "PICOTA": {
+    "lat": -6.901825,
+    "lon": -76.254858,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "SAN MARTIN": 61.2955,
+      "EL DORADO": 66.2095,
+      "LAMAS": 71.8477,
+      "BELLAVISTA": 82.1868,
+      "UCAYALI": 107.7577
+    }
+  },
+  "PISCO": {
+    "lat": -13.804955,
+    "lon": -75.942386,
+    "departamento": "ICA",
+    "adyacentes": {
+      "CHINCHA": 54.0909,
+      "ICA": 63.8943,
+      "HUAYTARA": 93.3918,
+      "CASTROVIRREYNA": 93.6873
+    }
+  },
+  "PIURA": {
+    "lat": -5.209114,
+    "lon": -80.38831,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "MORROPON": 44.3999,
+      "PUIRA": 53.5102,
+      "SULLANA": 74.9482,
+      "SECHURA": 79.933,
+      "AYABACA": 84.0482,
+      "LAMBAYEQUE": 118.2044
+    }
+  },
+  "POMABAMBA": {
+    "lat": -8.717597,
+    "lon": -77.43523,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "MARISCAL LUZURIAGA": 19.8347,
+      "SIHUAS": 30.9375,
+      "HUAYLAS": 49.8847,
+      "YUNGAY": 63.7174,
+      "PATAZ": 65.2081,
+      "MARAÑON": 81.7386
+    }
+  },
+  "PUERTO INCA": {
+    "lat": -9.367572,
+    "lon": -75.089792,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "PADRE ABAD": 73.5948,
+      "OXAPAMPA": 103.7856,
+      "LEONCIO PRADO": 109.6026,
+      "PACHITEA": 115.9299,
+      "CORONEL PORTILLO": 137.1468
+    }
+  },
+  "PUIRA": {
+    "lat": -5.324464,
+    "lon": -80.857491,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "PAITA": 33.8041,
+      "PIURA": 53.5102,
+      "SECHURA": 64.064,
+      "SULLANA": 85.8644
+    }
+  },
+  "PUNO": {
+    "lat": -16.083057,
+    "lon": -70.077634,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "SAN ROMAN": 56.2719,
+      "EL COLLAO": 79.3921,
+      "GENERAL SANCHEZ CERRO": 90.1638,
+      "HUANCANE": 118.6232,
+      "MARISCAL NIETO": 127.9828
+    }
+  },
+  "PURUS": {
+    "lat": -10.373907,
+    "lon": -71.581496,
+    "departamento": "UCAYALI",
+    "adyacentes": {
+      "TAHUAMANU": 161.9816,
+      "ATALAYA": 179.1619
+    }
+  },
+  "QUISPICANCHI": {
+    "lat": -13.524561,
+    "lon": -71.032045,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "CANCHIS": 63.0813,
+      "PAUCARTAMBO": 67.5853,
+      "ACOMAYO": 82.5009,
+      "CARABAYA": 96.739,
+      "CUSCO": 102.6855,
+      "PARURO": 103.4225,
+      "CALCA": 124.4664,
+      "MANU": 141.1068
+    }
+  },
+  "RECUAY": {
+    "lat": -9.952916,
+    "lon": -77.424003,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "AIJA": 33.475,
+      "BOLOGNESI": 34.7549,
+      "HUARAZ": 49.7473,
+      "HUARMEY": 57.3174,
+      "HUARI": 68.5638
+    }
+  },
+  "REQUENA": {
+    "lat": -5.99915,
+    "lon": -74.046654,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "UCAYALI": 205.8308,
+      "SAN MARTIN": 209.3914,
+      "ALTO AMAZONAS": 240.2576,
+      "LORETO": 272.5742,
+      "CORONEL PORTILLO": 296.9995,
+      "MARISCAL RAMON CASTILLA": 347.2089,
+      "MAYNAS": 386.2189
+    }
+  },
+  "RIOJA": {
+    "lat": -5.862509,
+    "lon": -77.466043,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "MOYOBAMBA": 37.763,
+      "BONGARA": 49.3955,
+      "RODRIGUEZ DE MENDOZA": 56.6478,
+      "CHACHAPOYAS": 72.9588
+    }
+  },
+  "RODRIGUEZ DE MENDOZA": {
+    "lat": -6.371804,
+    "lon": -77.453599,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "CHACHAPOYAS": 36.4794,
+      "RIOJA": 56.6478,
+      "MOYOBAMBA": 63.9819,
+      "HUALLAGA": 75.6149,
+      "MARISCAL CACERES": 104.6504
+    }
+  },
+  "SAN ANTONIO DE PUTINA": {
+    "lat": -14.71184,
+    "lon": -69.615262,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "HUANCANE": 45.1179,
+      "AZANGARO": 58.095,
+      "SANDIA": 100.7976,
+      "CARABAYA": 119.1093
+    }
+  },
+  "SAN IGNACIO": {
+    "lat": -5.124243,
+    "lon": -78.943976,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "BAGUA": 60.4018,
+      "JAEN": 65.8121,
+      "HUANCABAMBA": 72.4762
+    }
+  },
+  "SAN MARCOS": {
+    "lat": -7.283676,
+    "lon": -78.063253,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "CAJABAMBA": 28.8124,
+      "BOLIVAR": 35.5202,
+      "CAJAMARCA": 45.9307,
+      "CELENDIN": 56.0989
+    }
+  },
+  "SAN MARTIN": {
+    "lat": -6.50267,
+    "lon": -75.87205,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "PICOTA": 61.2955,
+      "LAMAS": 65.4726,
+      "UCAYALI": 105.2481,
+      "ALTO AMAZONAS": 134.1385,
+      "REQUENA": 209.3914
+    }
+  },
+  "SAN MIGUEL": {
+    "lat": -6.97726,
+    "lon": -78.996665,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "SAN PABLO": 29.4509,
+      "SANTA CRUZ": 32.6115,
+      "CONTUMAZA": 41.937,
+      "CHEPEN": 53.9377,
+      "HUALGAYOC": 57.9583,
+      "CHICLAYO": 63.9261
+    }
+  },
+  "SAN PABLO": {
+    "lat": -7.076975,
+    "lon": -78.749438,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "SAN MIGUEL": 29.4509,
+      "CAJAMARCA": 33.5941,
+      "CONTUMAZA": 40.1398,
+      "HUALGAYOC": 46.6596
+    }
+  },
+  "SAN ROMAN": {
+    "lat": -15.700725,
+    "lon": -70.422359,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "LAMPA": 42.2589,
+      "PUNO": 56.2719,
+      "GENERAL SANCHEZ CERRO": 94.509,
+      "AZANGARO": 103.4079,
+      "HUANCANE": 108.8664,
+      "CAYLLOMA": 134.5728,
+      "AREQUIPA": 140.7427
+    }
+  },
+  "SANCHEZ CARRION": {
+    "lat": -7.791574,
+    "lon": -77.907718,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "CAJABAMBA": 34.7334,
+      "SANTIAGO DE CHUCO": 49.6037,
+      "BOLIVAR": 59.7548,
+      "OTUZCO": 71.7036,
+      "PATAZ": 74.9706
+    }
+  },
+  "SANDIA": {
+    "lat": -13.850102,
+    "lon": -69.32497,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "CARABAYA": 92.5267,
+      "SAN ANTONIO DE PUTINA": 100.7976,
+      "TAMBOPATA": 199.2366
+    }
+  },
+  "SANTA": {
+    "lat": -8.968896,
+    "lon": -78.287189,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "HUAYLAS": 50.5246,
+      "CASMA": 58.4919,
+      "VIRU": 60.7555,
+      "CORONGO": 63.1743,
+      "YUNGAY": 65.167,
+      "PALLASCA": 83.5472,
+      "SANTIAGO DE CHUCO": 89.8105
+    }
+  },
+  "SANTA CRUZ": {
+    "lat": -6.68436,
+    "lon": -78.981593,
+    "departamento": "CAJAMARCA",
+    "adyacentes": {
+      "CHOTA": 30.252,
+      "SAN MIGUEL": 32.6115,
+      "HUALGAYOC": 48.1054,
+      "CHICLAYO": 64.1214
+    }
+  },
+  "SANTIAGO DE CHUCO": {
+    "lat": -8.174717,
+    "lon": -78.138435,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "PALLASCA": 30.3013,
+      "JULCAN": 35.8131,
+      "SANCHEZ CARRION": 49.6037,
+      "OTUZCO": 59.2813,
+      "VIRU": 63.9176,
+      "PATAZ": 89.5401,
+      "SANTA": 89.8105
+    }
+  },
+  "SATIPO": {
+    "lat": -11.561061,
+    "lon": -74.101207,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "TAYACAJA": 105.2072,
+      "HUANTA": 111.7876,
+      "CONCEPCION": 114.3726,
+      "HUANCAYO": 120.5961,
+      "CHANCHAMAYO": 126.9678,
+      "JAUJA": 152.1374,
+      "LA CONVENCION": 155.3622,
+      "ATALAYA": 162.0209,
+      "OXAPAMPA": 170.0483
+    }
+  },
+  "SECHURA": {
+    "lat": -5.870212,
+    "lon": -80.671949,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "PUIRA": 64.064,
+      "PIURA": 79.933,
+      "LAMBAYEQUE": 85.0844,
+      "PAITA": 97.4549
+    }
+  },
+  "SIHUAS": {
+    "lat": -8.482448,
+    "lon": -77.585635,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "POMABAMBA": 30.9375,
+      "CORONGO": 33.7541,
+      "PALLASCA": 39.5425,
+      "PATAZ": 47.5131,
+      "HUAYLAS": 57.69
+    }
+  },
+  "SUCRE": {
+    "lat": -14.121056,
+    "lon": -73.730454,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "VICTOR FAFARDO": 33.4618,
+      "ANDAHUAYLAS": 48.9594,
+      "VILCAS HUAMAN": 54.9452,
+      "VICTOR FAJARDO": 71.664,
+      "LUCANAS": 86.3894
+    }
+  },
+  "SULLANA": {
+    "lat": -4.583368,
+    "lon": -80.639732,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "TALARA": 50.247,
+      "PAITA": 67.0019,
+      "CONTRALMIRANTE VILLAR": 69.1578,
+      "PIURA": 74.9482,
+      "PUIRA": 85.8644,
+      "TUMBES": 89.3913,
+      "AYABACA": 92.7101
+    }
+  },
+  "TACNA": {
+    "lat": -17.892173,
+    "lon": -70.22092,
+    "departamento": "TACNA",
+    "adyacentes": {
+      "TARATA": 59.2753,
+      "JORGE BASADRE": 64.1737,
+      "CANDARAVE": 87.1019
+    }
+  },
+  "TAHUAMANU": {
+    "lat": -11.153033,
+    "lon": -70.328572,
+    "departamento": "MADRE DE DIOS",
+    "adyacentes": {
+      "TAMBOPATA": 120.626,
+      "PURUS": 161.9816,
+      "ATALAYA": 327.0178
+    }
+  },
+  "TALARA": {
+    "lat": -4.485132,
+    "lon": -81.082192,
+    "departamento": "PIURA",
+    "adyacentes": {
+      "SULLANA": 50.247,
+      "PAITA": 64.4945,
+      "CONTRALMIRANTE VILLAR": 68.6
+    }
+  },
+  "TAMBOPATA": {
+    "lat": -12.202295,
+    "lon": -70.047291,
+    "departamento": "MADRE DE DIOS",
+    "adyacentes": {
+      "TAHUAMANU": 120.626,
+      "MANU": 134.7826,
+      "CARABAYA": 177.2271,
+      "SANDIA": 199.2366,
+      "ATALAYA": 400.3637
+    }
+  },
+  "TARATA": {
+    "lat": -17.414651,
+    "lon": -69.972265,
+    "departamento": "TACNA",
+    "adyacentes": {
+      "CANDARAVE": 48.4954,
+      "TACNA": 59.2753,
+      "EL COLLAO": 79.8898,
+      "JORGE BASADRE": 82.2396
+    }
+  },
+  "TARMA": {
+    "lat": -11.279241,
+    "lon": -75.680857,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "JUNIN": 36.5184,
+      "JAUJA": 49.7988,
+      "YAULI": 53.9022,
+      "CHANCHAMAYO": 66.0225,
+      "OXAPAMPA": 134.1006
+    }
+  },
+  "TAYACAJA": {
+    "lat": -12.245315,
+    "lon": -74.769023,
+    "departamento": "HUANCAVELICA",
+    "adyacentes": {
+      "HUANCAYO": 36.2987,
+      "CHURCAMPA": 51.1783,
+      "HUANCAVELICA": 62.8373,
+      "HUANTA": 73.9268,
+      "SATIPO": 105.2072
+    }
+  },
+  "TOCACHE": {
+    "lat": -8.25062,
+    "lon": -76.636297,
+    "departamento": "SAN MARTIN",
+    "adyacentes": {
+      "MARAÑON": 52.651,
+      "BELLAVISTA": 76.5187,
+      "PATAZ": 76.8378,
+      "LEONCIO PRADO": 111.0265,
+      "MARISCAL CACERES": 124.2357
+    }
+  },
+  "TRUJILLO": {
+    "lat": -8.065538,
+    "lon": -78.896716,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "OTUZCO": 45.1041,
+      "ASCOPE": 47.0893,
+      "JULCAN": 48.9987,
+      "VIRU": 60.0246
+    }
+  },
+  "TUMBES": {
+    "lat": -3.806224,
+    "lon": -80.433445,
+    "departamento": "TUMBES",
+    "adyacentes": {
+      "ZARUMILLA": 25.9131,
+      "CONTRALMIRANTE VILLAR": 38.768,
+      "SULLANA": 89.3913
+    }
+  },
+  "UCAYALI": {
+    "lat": -7.305508,
+    "lon": -75.367035,
+    "departamento": "LORETO",
+    "adyacentes": {
+      "SAN MARTIN": 105.2481,
+      "PICOTA": 107.7577,
+      "BELLAVISTA": 111.3338,
+      "PADRE ABAD": 165.8683,
+      "REQUENA": 205.8308,
+      "LEONCIO PRADO": 207.9069,
+      "CORONEL PORTILLO": 209.149
+    }
+  },
+  "URUBAMBA": {
+    "lat": -13.25733,
+    "lon": -72.289698,
+    "departamento": "CUSCO",
+    "adyacentes": {
+      "ANTA": 27.2026,
+      "CALCA": 40.8565,
+      "CUSCO": 46.8,
+      "LA CONVENCION": 122.0188
+    }
+  },
+  "UTCUBAMBA": {
+    "lat": -5.770419,
+    "lon": -78.330791,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "BONGARA": 51.6027,
+      "LUYA": 66.0202,
+      "CUTERVO": 71.927,
+      "JAEN": 74.9544,
+      "BAGUA": 76.0826,
+      "CHOTA": 95.0795,
+      "CONDORCANQUI": 181.4612
+    }
+  },
+  "VICTOR FAFARDO": {
+    "lat": -13.962819,
+    "lon": -73.994306,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "SUCRE": 33.4618,
+      "VILCAS HUAMAN": 35.8866,
+      "VICTOR FAJARDO": 38.2341,
+      "HUANCA SANCOS": 50.2397,
+      "LUCANAS": 82.029
+    }
+  },
+  "VICTOR FAJARDO": {
+    "lat": -13.76453,
+    "lon": -74.283649,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "HUANCA SANCOS": 27.5357,
+      "CANGALLO": 36.6473,
+      "VICTOR FAFARDO": 38.2341,
+      "VILCAS HUAMAN": 43.5164,
+      "SUCRE": 71.664,
+      "HUAYTARA": 88.1563,
+      "LUCANAS": 94.889
+    }
+  },
+  "VILCAS HUAMAN": {
+    "lat": -13.654177,
+    "lon": -73.897166,
+    "departamento": "AYACUCHO",
+    "adyacentes": {
+      "CHINCHEROS": 31.6317,
+      "VICTOR FAFARDO": 35.8866,
+      "VICTOR FAJARDO": 43.5164,
+      "SUCRE": 54.9452,
+      "HUAMANGA": 55.8571,
+      "ANDAHUAYLAS": 57.7986,
+      "CANGALLO": 65.8006
+    }
+  },
+  "VIRU": {
+    "lat": -8.520258,
+    "lon": -78.602728,
+    "departamento": "LA LIBERTAD",
+    "adyacentes": {
+      "JULCAN": 42.0756,
+      "TRUJILLO": 60.0246,
+      "SANTA": 60.7555,
+      "SANTIAGO DE CHUCO": 63.9176,
+      "PALLASCA": 79.9211
+    }
+  },
+  "YAROWILCA": {
+    "lat": -9.799852,
+    "lon": -76.595649,
+    "departamento": "HUANUCO",
+    "adyacentes": {
+      "DOS DE MAYO": 16.1018,
+      "HUANUCO": 45.6341,
+      "LAURICOCHA": 46.366
+    }
+  },
+  "YAULI": {
+    "lat": -11.495206,
+    "lon": -76.12356,
+    "departamento": "JUNIN",
+    "adyacentes": {
+      "TARMA": 53.9022,
+      "JUNIN": 56.2371,
+      "HUAROCHIRI": 59.4393,
+      "CANTA": 63.883,
+      "JAUJA": 72.0151,
+      "PASCO": 83.0815,
+      "HUARAL": 88.1007
+    }
+  },
+  "YAUYOS": {
+    "lat": -12.515466,
+    "lon": -75.901655,
+    "departamento": "LIMA",
+    "adyacentes": {
+      "CAÑETE": 58.8671,
+      "CHUPACA": 61.3802,
+      "HUAROCHIRI": 85.6466,
+      "CASTROVIRREYNA": 88.2814,
+      "CHINCHA": 89.3866,
+      "HUANCAVELICA": 91.2723,
+      "HUANCAYO": 102.1473,
+      "JAUJA": 102.3058,
+      "CONCEPCION": 118.2319
+    }
+  },
+  "YUNGAY": {
+    "lat": -9.203213,
+    "lon": -77.743181,
+    "departamento": "ANCASH",
+    "adyacentes": {
+      "CARHUAZ": 21.4733,
+      "HUAYLAS": 30.4313,
+      "ASUNCION": 37.854,
+      "HUARAZ": 41.2953,
+      "CARLOS FERMIN FITZCARRALD": 57.6979,
+      "CASMA": 57.8162,
+      "MARISCAL LUZURIAGA": 58.0288,
+      "POMABAMBA": 63.7174,
+      "SANTA": 65.167
+    }
+  },
+  "YUNGUYO": {
+    "lat": -16.304709,
+    "lon": -69.021619,
+    "departamento": "PUNO",
+    "adyacentes": {
+      "CHUCUITO": 48.7407
+    }
+  },
+  "ZARUMILLA": {
+    "lat": -3.655491,
+    "lon": -80.255336,
+    "departamento": "TUMBES",
+    "adyacentes": {
+      "TUMBES": 25.9131
+    }
+  },
+  "CONDORCANQUI": {
+    "lat": -4.164706,
+    "lon": -78.038399,
+    "departamento": "AMAZONAS",
+    "adyacentes": {
+      "BAGUA": 110.369,
+      "DATEM DEL MARAÑON": 117.6825,
+      "BONGARA": 169.5207,
+      "UTCUBAMBA": 181.4612
+    }
+  }
+}
